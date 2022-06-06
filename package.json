@@ -28,7 +28,7 @@
     "type": "git",
     "url": "git+https://github.com/healtheloper/react-carousel-calendar.git"
   },
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "@emotion/styled": "^11.8.1",
     "react": "^18.1.0",
