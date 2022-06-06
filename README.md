@@ -16,7 +16,11 @@ A minimal demo page can be found in `sample` directory,
 ## Usage
 
 ```jsx
-import { Calendar, CalendarContainer, CalendarProvider } from '../dist';
+import {
+  Calendar,
+  CalendarContainer,
+  CalendarProvider,
+} from 'react-carousel-calendar';
 
 function App() {
   return (
