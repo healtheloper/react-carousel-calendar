@@ -57,7 +57,8 @@ If you want to add language, please [issue](https://github.com/healtheloper/reac
 
 ### CalendarContainer
 
-- Container is optional, if you have any container, you can use that. Just I recommend I just recommend `5:3 width, height` ratio, and min-width `400px`
+- Container is optional, if you have any container, you can use that.
+- Just I recommend `5:3 width, height` ratio, and min-width `400px`
 
 #### Props
 
