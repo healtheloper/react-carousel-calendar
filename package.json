@@ -1,8 +1,12 @@
 {
   "name": "react-carousel-calendar",
   "version": "0.0.1",
-  "description": "React calendar with carousel",
+  "description": "📆 React calendar with carousel",
   "main": "dist/index.js",
+  "hompage": "https://github.com/healtheloper/react-carousel-calendar#readme",
+  "bugs": {
+    "url": "https://github.com/healtheloper/react-carousel-calendar/issues"
+  },
   "scripts": {
     "start": "npm run build && webpack serve --config sample/webpack.config.js",
     "build": "babel lib --out-dir dist"
@@ -12,9 +16,18 @@
     "react-carousel-calendar",
     "react-calendar",
     "react-calendar-carousel",
-    "calendar-carousel"
+    "calendar-carousel",
+    "carousel-calendar"
   ],
-  "author": "healtheloper",
+  "author": {
+    "name": "healtheloper",
+    "email": "super0872@naver.com",
+    "url": "https://github.com/healtheloper"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/healtheloper/react-carousel-calendar.git"
+  },
   "license": "ISC",
   "dependencies": {
     "@emotion/styled": "^11.8.1",
