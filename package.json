@@ -3,6 +3,11 @@
   "version": "0.0.2",
   "description": "📆 React calendar with carousel",
   "main": "dist/index.js",
+  "types": "./index.d.ts",
+  "files": [
+    "dist",
+    "index.d.ts"
+  ],
   "hompage": "https://github.com/healtheloper/react-carousel-calendar#readme",
   "bugs": {
     "url": "https://github.com/healtheloper/react-carousel-calendar/issues"
