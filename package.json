@@ -1,6 +1,6 @@
 {
   "name": "react-carousel-calendar",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "📆 React calendar with carousel",
   "main": "dist/index.js",
   "types": "./index.d.ts",
