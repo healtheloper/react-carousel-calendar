@@ -1,9 +1,11 @@
-import { Calendar, CalendarContainer, CalendarProvider } from '../dist';
 import {
+  Calendar,
+  CalendarContainer,
+  CalendarProvider,
   useCalendarState,
   useCalendarDispatch,
   ACTION_TYPES,
-} from '../dist/CalendarProvider';
+} from '../dist';
 
 function SampleCheckin() {
   const { checkin } = useCalendarState();
